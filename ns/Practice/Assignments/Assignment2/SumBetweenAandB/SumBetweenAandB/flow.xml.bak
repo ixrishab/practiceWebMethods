@@ -1687,10 +1687,10 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/finalA;1;0" TO="/num1;1;0">
+<MAPCOPY FROM="/finalB;1;0" TO="/num1;1;0">
 </MAPCOPY>
 
-<MAPCOPY FROM="/finalB;1;0" TO="/num2;1;0">
+<MAPCOPY FROM="/finalA;1;0" TO="/num2;1;0">
 </MAPCOPY>
 </MAP>
 
@@ -2739,10 +2739,10 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/n;1;0" TO="/num1;1;0">
+<MAPCOPY FROM="/A+B;1;0" TO="/num2;1;0">
 </MAPCOPY>
 
-<MAPCOPY FROM="/A+B;1;0" TO="/num2;1;0">
+<MAPCOPY FROM="/N;1;0" TO="/num1;1;0">
 </MAPCOPY>
 </MAP>
 
